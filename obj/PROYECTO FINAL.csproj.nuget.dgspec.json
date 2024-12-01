@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RaulR\\source\\repos\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL.csproj": {}
+    "C:\\Users\\luisf\\PROYECTO-FINAL\\PROYECTO FINAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RaulR\\source\\repos\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL.csproj": {
+    "C:\\Users\\luisf\\PROYECTO-FINAL\\PROYECTO FINAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RaulR\\source\\repos\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL.csproj",
+        "projectUniqueName": "C:\\Users\\luisf\\PROYECTO-FINAL\\PROYECTO FINAL.csproj",
         "projectName": "PROYECTO FINAL",
-        "projectPath": "C:\\Users\\RaulR\\source\\repos\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL.csproj",
-        "packagesPath": "C:\\Users\\RaulR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RaulR\\source\\repos\\PROYECTO FINAL\\PROYECTO FINAL\\PROYECTO FINAL\\obj\\",
+        "projectPath": "C:\\Users\\luisf\\PROYECTO-FINAL\\PROYECTO FINAL.csproj",
+        "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisf\\PROYECTO-FINAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RaulR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisf\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
